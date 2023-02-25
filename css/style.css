@@ -64,7 +64,7 @@ a img {
 .page-home {
     background-repeat: no-repeat;
     background-position: center 108px;
-    background-image: url(../images/stadium1-home.jpg);
+    background-image: url();
 }
 .page-about {
     background-repeat: no-repeat;
@@ -88,7 +88,7 @@ a img {
 }
 .header div {
 	margin:0 auto;
-	width:960px;
+	width:1030px;
 }
 .header div a#logo {
 	display:inline-block;

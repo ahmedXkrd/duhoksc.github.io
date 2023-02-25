@@ -64,28 +64,22 @@ a img {
 .page-home {
     background-repeat: no-repeat;
     background-position: center 108px;
-    background-image: url(file:///F|/Ahmed/Website/Duhok%20SC/images/stadium1-home.jpg), -webkit-linear-gradient(180deg,rgba(236,230,90,0.19) 9.33%,rgba(126,126,126,0.46) 49.75%,rgba(51,140,200,0.13) 85.49%);
-    background-image: url(file:///F|/Ahmed/Website/Duhok%20SC/images/stadium1-home.jpg), -moz-linear-gradient(180deg,rgba(236,230,90,0.19) 9.33%,rgba(126,126,126,0.46) 49.75%,rgba(51,140,200,0.13) 85.49%);
-    background-image: url(file:///F|/Ahmed/Website/Duhok%20SC/images/stadium1-home.jpg), -o-linear-gradient(180deg,rgba(236,230,90,0.19) 9.33%,rgba(126,126,126,0.46) 49.75%,rgba(51,140,200,0.13) 85.49%);
-    background-image: url(file:///F|/Ahmed/Website/Duhok%20SC/images/stadium1-home.jpg), linear-gradient(270deg,rgba(236,230,90,0.19) 9.33%,rgba(126,126,126,0.46) 49.75%,rgba(51,140,200,0.13) 85.49%);
+    background-image: url(../images/stadium1-home.jpg);
 }
 .page-about {
     background-repeat: no-repeat;
     background-position: center 108px;
-    background-image: url(file:///F|/Ahmed/Website/Duhok%20SC/images/stadium1-home.jpg), -webkit-linear-gradient(180deg,rgba(236,230,90,0.19) 9.33%,rgba(126,126,126,0.46) 49.75%,rgba(51,140,200,0.13) 85.49%);
-    background-image: url(file:///F|/Ahmed/Website/Duhok%20SC/images/stadium1-home.jpg), -moz-linear-gradient(180deg,rgba(236,230,90,0.19) 9.33%,rgba(126,126,126,0.46) 49.75%,rgba(51,140,200,0.13) 85.49%);
-    background-image: url(file:///F|/Ahmed/Website/Duhok%20SC/images/stadium1-home.jpg), -o-linear-gradient(180deg,rgba(236,230,90,0.19) 9.33%,rgba(126,126,126,0.46) 49.75%,rgba(51,140,200,0.13) 85.49%);
-    background-image: url(file:///F|/Ahmed/Website/Duhok%20SC/images/stadium1-home.jpg), linear-gradient(270deg,rgba(236,230,90,0.19) 9.33%,rgba(126,126,126,0.46) 49.75%,rgba(51,140,200,0.13) 85.49%);
+    background-image: url(../images/stadium1-home.jpg);
 }
 .page-news {
 	 background-repeat: no-repeat;
     background-position: center 108px;
-    background-image: url(file:///F|/Ahmed/Website/Duhok%20SC/images/bg-featured-home.jpg), linear-gradient(270deg,rgba(236,230,90,0.19) 9.33%,rgba(126,126,126,0.46) 49.75%,rgba(51,140,200,0.13) 85.49%);
+    background-image: url(../images/stadium1-home.jpg);
 }
 .page-contact, .page-gallery {
     background-repeat: no-repeat;
     background-position: center 108px;
-    background-image: url(file:///F|/Ahmed/Website/Duhok%20SC/images/bg-featured-home.jpg), linear-gradient(270deg,rgba(236,230,90,0.19) 9.33%,rgba(126,126,126,0.46) 49.75%,rgba(51,140,200,0.13) 85.49%);
+    background-image: url(../images/stadium1-home.jpg);
 }
 /*------------------------- Header -------------------------*/
 .header {
@@ -308,9 +302,12 @@ a img {
 	text-indent:25px;
 }
 .body .sidebar ul {
-	list-style:none;
-	margin:0;
-	padding:36px 0 35px;
+    list-style: none;
+    margin: 0;
+    padding-top: 13px;
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 35px;
 }
 .body .sidebar ul li:first-child {
 	margin-top:0;

@@ -204,14 +204,15 @@ a img {
 }
 /*------------------------- Body ---------------------------*/
 .body {
-	margin:0 auto;
-	padding:35px 0 0;
-	width:960px;
+    margin: 0 auto;
+    padding: 35px 0 0;
+    width: 947px;
+    height: 0px;
 }
 .body .home {
-	float:left;
-	margin:0 20px 17px 0;
-	width:630px;
+    float: left;
+    margin: 0 20px 17px 0;
+    width: 621px;
 }
 .body .home h4 {
 	background:none #102223;
@@ -285,9 +286,9 @@ a img {
 	color:#bdbdbd;
 }
 .body .sidebar {
-	float:right;
-	margin:0 0 42px;
-	width:310px;
+    float: right;
+    margin: 0 0 42px;
+    width: 306px;
 }
 .body .sidebar h4 {
 	background:none #1d3536;
